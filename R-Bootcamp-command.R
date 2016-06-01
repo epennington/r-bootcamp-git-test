@@ -4,8 +4,6 @@
 ## Updated: May 25, 2016
 ## Github URL: https://github.com/jehopark/hmc-r-bootcamp-2016.git
 
-Test change
-
 # Some General Stuff -----------
 demo() # display available demos
 demo(graphics) # try graphics demo
